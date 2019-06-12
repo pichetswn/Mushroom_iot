@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "457399497116",
+    "firebase_url": "https://mushroom-a9988.firebaseio.com",
+    "project_id": "mushroom-a9988",
+    "storage_bucket": "mushroom-a9988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457399497116:android:ac1ff4a4cc1d2655",
+        "android_client_info": {
+          "package_name": "th.ac.rmutsv.rattaphum.mushroomiotps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457399497116-n68ql2qfl8nrtvvodppqf94ff8e7p4sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.rmutsv.rattaphum.mushroomiotps",
+            "certificate_hash": "5b6946fbefe203d27dd4d002f86befa45c06c231"
+          }
+        },
+        {
+          "client_id": "457399497116-8itb7ntf6cue8d02mij2a5qmu1ec28lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcdnKLe0m1ESxzEh2ZxyNl9pWiNrpBteU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457399497116-8itb7ntf6cue8d02mij2a5qmu1ec28lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
